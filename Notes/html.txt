@@ -10,3 +10,31 @@ tags
 element
 - container for content
 - some elements don't have closing tags (empty elements) but most do
+
+<head> element is for meta-information about our webpages, not content
+<body> is for content
+
+In VScode, enter ! for template
+HTML validator: https://validator.w3.org/
+
+<p> for paragraphs (browser will ignore new lines in blocks of text)
+<h1> largest heading
+<h6> smallest heading 
+<strong> for bold 
+<em> for italics
+<ul> unordered list (bullet points)
+<ol> ordered list (numbers) 
+    <li> item A </li>
+    <li> item B </li>
+
+<!-- This is an HTML comment -->
+
+<a> anchor element, used for links
+<a href="https://www.theodinproject.com/about">click me</a>
+
+absolute links:links to pages on other websites 
+relative links: links to pages on our own website 
+
+<img> image element, no closing tag (empty)
+ <img src="https://www.theodinproject.com/mstile-310x310.png" alt="description txt">
+ use <im src="../<image path>> to step up to the parent directory 

@@ -4,6 +4,7 @@ text editor: CTRL + ALT + T
 Screenshot: Host Key (Right ctrl) + E
 
 Terminal commands
+current directory: pwd
 shut down: poweroff
 open chrome: google-chrome
 open vscode: code
@@ -16,6 +17,7 @@ New folder: mkdir *folder name*
 Delete folder: rmdir *folder name* if empty, or rm -r *dirname*
 move file or folder: mv 
 Verbose output: -v
+move: mv -i example.txt ~/dev/repos/git_test 
 
 https://www.softcover.io/read/fc6c09de/unix_commands/basics
 https://github.com/jlevy/the-art-of-command-line#readme
