@@ -38,3 +38,16 @@ relative links: links to pages on our own website
 <img> image element, no closing tag (empty)
  <img src="https://www.theodinproject.com/mstile-310x310.png" alt="description txt">
  use <im src="../<image path>> to step up to the parent directory 
+
+ image types:
+ jpg = great for photos, can handle large color palettes w/o much size
+ gif = great for simple animations 
+ png = great for anything not photo or animation (icons, logos, diagrams)
+ svg = vector based, can scale to any dimension without loss of quality
+        - same usecase as png, except maybe not great if lots of text
+
+ Reserved characters:
+ < = &lt 
+ > = &gt 
+ & = &amp
+       
