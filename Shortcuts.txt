@@ -20,12 +20,20 @@ https://www.softcover.io/read/fc6c09de/unix_commands/basics
 https://github.com/jlevy/the-art-of-command-line#readme
 
 git
+syntax: program | action | destination
 Show state of files: git status
 Add files to staging area: git add <filename>
 commit: git commit -m "<description>"
 see log: git log
+push: git push <origin branch-name> 
+clone: git clone git@github.com:USER-NAME/REPOSTIORY-NAME.git
 
 open terminal is VScode: ctrl + shift + ` (lowercase ~)
+
+Git best practices:
+Atomic changes - changes related to one feature or task. Make updates atomic. 
+
+
 
 
 
