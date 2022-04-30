@@ -1,3 +1,4 @@
+Github link: https://github.com/TheManMythMicah/git_test
 Linux shortcuts:
 text editor: CTRL + ALT + T
 Screenshot: Host Key (Right ctrl) + E
@@ -33,7 +34,8 @@ open terminal is VScode: ctrl + shift + ` (lowercase ~)
 Git best practices:
 Atomic changes - changes related to one feature or task. Make updates atomic. 
 
-
+Resources:
+https://devdocs.io/  collection of API documentation
 
 
 

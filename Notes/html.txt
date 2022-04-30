@@ -1,0 +1,12 @@
+This document is for HTML notes
+
+tags
+- opening: tell browser the start of an HTML element
+- closeing: tell browser the end of an HTML element
+- example: <p> paragraph </p>
+- list of predefined tags: https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+- correct use of tags affects SEO and assitive tech 
+
+element
+- container for content
+- some elements don't have closing tags (empty elements) but most do
