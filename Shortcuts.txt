@@ -1,0 +1,38 @@
+Linux shortcuts:
+text editor: CTRL + ALT + T
+Screenshot: Host Key (Right ctrl) + E
+
+Terminal commands
+shut down: poweroff
+open chrome: google-chrome
+open vscode: code
+open file in vscode: code *project name*/
+open project directory in vscode: code.
+create new file: touch *filename.type* (without *)
+copy: Ctrl + Shift + C
+paste: Ctrl + Shift + V
+New folder: mkdir *folder name*
+Delete folder: rmdir *folder name* if empty, or rm -r *dirname*
+move file or folder: mv 
+Verbose output: -v
+
+https://www.softcover.io/read/fc6c09de/unix_commands/basics
+https://github.com/jlevy/the-art-of-command-line#readme
+
+git
+Show state of files: git status
+Add files to staging area: git add <filename>
+commit: git commit -m "<description>"
+see log: git log
+
+open terminal is VScode: ctrl + shift + ` (lowercase ~)
+
+
+
+
+
+
+
+
+
+
