@@ -35,6 +35,16 @@ open terminal is VScode: ctrl + shift + ` (lowercase ~)
 
 Git best practices:
 Atomic changes - changes related to one feature or task. Make updates atomic. 
+log: use imperative for subject line 
+If applied, this commit will : <your subject line here>
+
+Example commit log:
+    Subject line (try to keep under 50 characters)
+
+    Multi-line description of commit,
+    feel free to be detailed.
+
+    [Ticket: X]
 
 Resources:
 https://devdocs.io/  collection of API documentation
